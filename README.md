@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... learning OOPs.
-- 🌱 I’m currently learning ... JS + C#.
+- 🔭 I’m currently working on ... internship with Biblingo!
+- 🌱 I’m currently learning ... Clean Architecture in .NET.
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... 
