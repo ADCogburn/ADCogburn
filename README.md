@@ -1,12 +1,11 @@
-### Here is What I'm Working On! 
+Thank you for visited my GitHub page!
 
-Here are some ideas to get you started:
+My name is Andrew Cogburn and I am a Junior .NET Developer from Houston, TX. I several years of general I.T. experience and 1+ years of software development experience.
+
+I have worked primarily with C# and .NET. I am currently partnering with Biblingo to aid in cleaning up their code to streamline the service. I am additionally working on personal projects and a client webite - all using .NET!
 
 - 🔭 I’m currently working on ... internship with Biblingo!
 - 🌱 I’m currently learning ... Clean Architecture in .NET.
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... 
 - 📫 How to reach me: ... andrew.d.cogburn@gmail.com
 - 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ... I love languages (programming and spoken)!
