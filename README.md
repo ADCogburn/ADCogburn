@@ -1,4 +1,4 @@
-Thank you for visited my GitHub page!
+Thank you for visiting my GitHub page!
 
 My name is Andrew Cogburn and I am a Junior .NET Developer from Houston, TX. I several years of general I.T. experience and 1+ years of software development experience.
 
