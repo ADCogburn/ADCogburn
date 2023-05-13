@@ -1,5 +1,5 @@
 Thank you for visiting my GitHub page!
-\[Hello\]
+
 My name is Andrew Cogburn and I am a Junior .NET Developer from Houston, TX. I several years of general I.T. experience and 1+ years of software development experience.
 
 I have worked primarily with C# and .NET. I am currently partnering with Biblingo to aid in cleaning up their code to streamline the service. I am additionally working on personal projects and a client webite - all using .NET!
@@ -10,3 +10,4 @@ I have worked primarily with C# and .NET. I am currently partnering with Bibling
 - 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ... I love languages (programming and spoken)!
 -->
+\[test\]
