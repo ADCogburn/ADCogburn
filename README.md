@@ -4,8 +4,8 @@ My name is Andrew Cogburn and I am a Junior .NET Developer from Houston, TX. I s
 
 I have worked primarily with C# and .NET. I am currently partnering with Biblingo to aid in cleaning up their code to streamline the service. I am additionally working on personal projects and a client webite - all using .NET!
 
-- 🔭 I’m currently working on ... internship with Biblingo!
-- 🌱 I’m currently learning ... Clean Architecture in .NET.
+- 🔭 I’m currently working on ... .NET 8
+- 🌱 I’m currently learning ... .NET 8 Blazor
 - 📫 How to reach me: ... andrew.d.cogburn@gmail.com
 - 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ... I love languages (programming and spoken)!
