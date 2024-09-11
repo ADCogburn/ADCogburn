@@ -9,5 +9,3 @@ I have worked primarily with C# and .NET.
 - 📫 How to reach me: ... andrew.d.cogburn@gmail.com
 - 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ... I love languages (programming and spoken)!
--->
-\[test\]
